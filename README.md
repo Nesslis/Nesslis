@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&letterSpacing=3px&pause=1000&color=99228F&width=435&lines=Hello+There+!" alt="Typing SVG" /></a> </h1>
+<h1 align="center">I'm Neslihan Akkoç</h1>
+<h4 align="center">Mobile developer</h4>
+- 🌱 Currently, I am developing both mobile apps with Kotlin, and React Native and web apps with React.js.
+<p align="left">
+- 📫 How to reach me **nakkoc66@gmail.com**
+</p>
 
-<!--
-**Nesslis/Nesslis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,javascript,ts,github,ai,kotlin" />
+  </a>
+</p> 
